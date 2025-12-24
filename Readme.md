@@ -8,6 +8,10 @@ This project highlights core JavaScript skills such as event handling, condition
 
 ---
 
+LIVE DEMO 
+https://shoaib-rock-papergame.netlify.app
+
+
 ### ✨ Features
 - Player vs Computer gameplay
 - Instant win, lose, and draw detection
